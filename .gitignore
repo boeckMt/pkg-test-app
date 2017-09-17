@@ -1,0 +1,5 @@
+*.js
+*.css
+pkg-test-bin.exe
+pkg-test-bin
+node_modules
